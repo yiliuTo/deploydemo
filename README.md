@@ -1,5 +1,5 @@
 # Azure Spring Initializr Project
 
-<a href="https://yonghui-deploy-dev-apps-deploydemo.azuremicroservices.io/deploy.html?url=https://github.com/hui1110/deploydemo&branch=dev" data-linktype="external">
+<a href="http://localhost:8080/deploy.html?url=https://github.com/hui1110/deploydemo&branch=dev" data-linktype="external">
     <img src="https://user-images.githubusercontent.com/58474919/236122963-8c0857bb-3822-4485-892a-445fa33f1612.png" alt="Deploy to Azure" width="300px" data-linktype="relative-path">
 </a>
